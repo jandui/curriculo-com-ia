@@ -142,7 +142,7 @@ export default function PaginaVendas() {
           {/* Imagem do produto */}
           <div className="mb-12 flex justify-center">
             <img
-              src="src/image/capa-cv-gpt.png"
+              src="/image/capa-cv-gpt.png"
               alt="Capa do guia Currículo com IA"
               className="rounded-lg shadow-2xl max-w-md w-full border-2 border-yellow-500/20"
             />
